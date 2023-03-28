@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.list-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.suggestion {
+  font-size: 15px;
+  color: #64748b;
+}
+
+.arrow-image {
+  margin-top: 10px;
+  height: 22px;
+  width: 23px;
+}
