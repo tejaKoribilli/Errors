@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.title-star-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.list-item {
+  border: 1px solid #b5b7c4;
+  border-radius: 12px;
+  padding: 10px;
+  width: 300px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.title-heading {
+  font-size: 17px;
+  font-weight: 700;
+  color: #171f46;
+}
+
+.star-img {
+  height: 22px;
+  width: 22px;
+  margin-top: 10px;
+}
+.date-para {
+  color: #b5b7c4;
+  font-weight: 500;
+}
+.star-btn {
+  border: none;
+  background-color: transparent;
+}

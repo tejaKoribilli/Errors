@@ -1,0 +1,96 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #fbc7d4, #8b5cf6);
+  height: 100vh;
+  width: 80vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: white;
+  padding: 50px;
+  width: 90%;
+  border-radius: 18px;
+}
+.main-container {
+  display: flex;
+  justify-content: space-between;
+}
+.add-heading {
+  font-size: 29px;
+  font-weight: 500;
+  color: #171f46;
+}
+.appointment-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.label-name {
+  font-size: 17px;
+  font-weight: 500;
+  margin-top: 10px;
+  color: #b5b7c4;
+}
+.input-field {
+  outline: none;
+  padding: 7px;
+  font-size: 15px;
+  border: 1px solid #b5b7c4;
+  border-radius: 4px;
+  width: 200px;
+  font-weight: 600;
+  margin-top: 5px;
+  color: #b5b7c4;
+}
+.add-btn {
+  background-color: #8b5cf6;
+  padding: 7px;
+  border-radius: 10px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  margin-top: 20px;
+  width: 50px;
+}
+.appointments-image {
+  height: 300px;
+  width: 440px;
+}
+.horizontal-line {
+  border: 1px solid #b5b7c4;
+  width: 99%;
+  margin-top: 14px;
+}
+.appointment-heading {
+  font-size: 19px;
+}
+.starred-btn {
+  color: #9796f0;
+  border: 1px solid #9796f0;
+  border-radius: 8px;
+  padding: 4px;
+  font-size: 12px;
+  height: 35px;
+  width: 60px;
+  background-color: transparent;
+  margin-top: 10px;
+}
+.appointments-container {
+  display: flex;
+  justify-content: space-between;
+  width: 99%;
+  margin-top: 10px;
+}
+.list-container {
+  list-style-type: none;
+  flex-wrap: wrap;
+  display: flex;
+}
+.starred-active {
+  background-color: #8b5cf6;
+  color: white;
+}
