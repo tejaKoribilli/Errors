@@ -1,0 +1,22 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  width: 60vw;
+  padding: 20px 10px 20px;
+  text-align: center;
+}
+.faq-heading {
+  font-size: 40px;
+  color: #cb8805;
+  margin-bottom: 20px;
+}
+.faqs-container {
+  background-color: white;
+  padding: 40px 10px 30px;
+  height: 100%;
+}
+.list-container {
+  list-style-type: none;
+  padding: 0px 20px 0px;
+  text-align: center;
+}

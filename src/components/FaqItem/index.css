@@ -1,0 +1,27 @@
+/* Write your code here. */
+.list-item {
+  width: 99%;
+  padding: 14px;
+  border: 1px solid #9aa5b1;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.question-container {
+  display: flex;
+  justify-content: space-between;
+}
+.plus-icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 25px;
+}
+.question-heading {
+  font-size: 24px;
+  color: #52606d;
+}
+.icon-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
