@@ -1,0 +1,9 @@
+.thumbnail-list-img {
+  height: 130px;
+  width: 130px;
+  margin: 50px 10px 0px;
+}
+.img-btn-list {
+  border: none;
+  background-color: transparent;
+}

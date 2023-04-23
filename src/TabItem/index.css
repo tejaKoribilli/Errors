@@ -1,0 +1,14 @@
+.tab-name {
+  margin: 0px 20px 10px;
+  color: white;
+  font-size: 20px;
+  border: none;
+  background-color: transparent;
+}
+.active-tab {
+  color: #fec653;
+}
+.under-line {
+  border: 2px solid #fec653;
+  width: 60%;
+}
