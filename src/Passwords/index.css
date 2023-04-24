@@ -1,0 +1,84 @@
+.passwords-bg-container {
+  background-color: #5763a5;
+  border-radius: 10px;
+  margin-top: 20px;
+  min-height: 400px;
+  padding: 10px 20px 30px;
+}
+.passwords-top-container {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+}
+.your-passwd-container {
+  display: flex;
+}
+.your-passwd-heading {
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 0px;
+}
+.passwd-count {
+  color: white;
+  font-size: 17px;
+  border: 1px solid #ffffff;
+  height: 20px;
+  width: 19px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+  border-radius: 130px;
+}
+.pswd-search-container {
+  display: flex;
+  background-color: white;
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+.search-icon {
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+  border-right: 1px solid #9ba9eb;
+}
+.search-field {
+  font-size: 15px;
+  padding: 4px;
+  width: 160px;
+  outline: none;
+  border: none;
+}
+.top-container-line {
+  width: 100%;
+  border-color: #9ba9eb;
+  margin: 0px;
+}
+.paswd-bottom-container {
+  text-align: center;
+}
+.show-pswd-container {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+.show-paswd {
+  color: white;
+}
+.no-paswd-img {
+  height: 300px;
+  width: 400px;
+  background-size: cover;
+}
+.website-details-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.no-passwd {
+  text-align: center;
+  color: white;
+  font-size: 19px;
+}

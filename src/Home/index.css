@@ -1,0 +1,63 @@
+.bg-container {
+  background-color: #9ba9eb;
+  width: 70vw;
+  padding: 30px 50px 30px;
+}
+.app-logo {
+  height: 40px;
+  width: 150px;
+}
+.input-main-container {
+  background-color: #5763a5;
+  border-radius: 10px;
+  margin-top: 20px;
+  display: flex;
+}
+.password-manager-img {
+  height: 270px;
+  width: 370px;
+}
+.form-input-container {
+  background-color: #454f84;
+  margin: 30px;
+  border-radius: 12px;
+  width: 47%;
+  padding: 19px;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.add-passwd-heading {
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0px 0px 3px;
+}
+.input-container {
+  display: flex;
+  background-color: white;
+  margin-top: 15px;
+}
+.input-logo {
+  height: 30px;
+  width: 30px;
+  border-right: 1px solid #454f84;
+  padding: 6px;
+}
+.input-feild {
+  border: none;
+  outline: none;
+  font-size: 13px;
+  padding: 5px;
+}
+.add-user-btn {
+  color: white;
+  background-color: #0b69ff;
+  margin-left: auto;
+  border: none;
+  margin-top: 15px;
+  width: 60px;
+  padding: 3px;
+  align-self: flex-end;
+}
