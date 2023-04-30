@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.MatchCard-list-item-container {
+  background-color: #0f172a;
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  margin-top: 10px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  font-family: 'Bree Serif';
+}
+.competing-team-logo {
+  height: 110px;
+  width: 90px;
+}
+.competing-team {
+  font-size: 18px;
+}
+.match-result {
+  font-size: 13px;
+}
+.match-status {
+  font-size: 13px;
+}
+.green-class {
+  color: green;
+}
+.red-class {
+  color: red;
+}

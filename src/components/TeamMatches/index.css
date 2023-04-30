@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.teamMatches-container {
+  min-height: 100vh;
+  width: 80vw;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-banner {
+  width: 90%;
+  height: 270px;
+  align-self: center;
+}
+.latestMatches-label {
+  color: white;
+  width: 90%;
+}
+.latest-matches-container {
+  background-color: #1e293b;
+  padding: 13px;
+  color: white;
+  width: 90%;
+  align-self: center;
+}
+.recentMatches-list-container {
+  width: 90%;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.rcb-background {
+  background-color: #a4261d;
+}
+.kkr-background {
+  background-color: #5755a7;
+}
+
+.kxp-background {
+  background-color: #d91c1f;
+}
+.csk-background {
+  background-color: #f7db00;
+}
+.rr-background {
+  background-color: #4f5db0;
+}
+.mi-background {
+  background-color: #13418b;
+}
+.srh-background {
+  background-color: #f26d22;
+}
+.dc-background {
+  background-color: #5755a7;
+}

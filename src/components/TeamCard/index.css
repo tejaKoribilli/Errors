@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.team-card-container {
+  display: flex;
+  background-color: transparent;
+  border: 2px solid #475569;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 10px;
+  width: 280px;
+  height: 120px;
+}
+.team-image {
+  height: 80px;
+  width: 60px;
+}
+.team-name {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 10px;
+}

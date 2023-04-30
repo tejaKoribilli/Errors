@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.latestMatches-inside-container {
+  background-color: #1e293b;
+  padding: 13px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  border-radius: 10px;
+}
+.competing-team-logo {
+  height: 200px;
+  width: 170px;
+  align-self: center;
+}
+.latestMatches-left-container {
+  align-self: flex-end;
+  width: 35%;
+  font-size: 14x;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+.latestMatches-right-container {
+  width: 35%;
+  text-align: right;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+.competing-team {
+  font-size: 20px;
+  font-weight: 500;
+}
+.latestMatches-right-headings {
+  font-size: 15px;
+}
