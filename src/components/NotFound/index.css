@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.not-found-img {
+  height: 500px;
+  width: 500px;
+}
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+}
+
+.not-found-info {
+  color: #616e7c;
+}
