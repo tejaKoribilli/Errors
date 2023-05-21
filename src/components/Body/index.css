@@ -1,0 +1,61 @@
+/* Write your CSS here */
+.body-bgComponent-container {
+  margin: 6px 0px 6px;
+  height: 300px;
+  width: 80%;
+  display: flex;
+}
+.left-side-container {
+  background-color: #e2e8f0;
+  width: 30%;
+  height: 100%;
+  padding: 20px 18px 40px;
+  margin-right: 5px;
+}
+.leftSide-navbar-heading {
+  color: #475569;
+  font-weight: 500;
+  font-size: 15px;
+}
+.left-side-item {
+  color: #475569;
+  padding-left: 10px;
+}
+.renderMiddleBody-container {
+  align-items: center;
+  width: 40%;
+  margin: 0px 0px 0px;
+  background-color: #f1f5f9;
+  padding: 15px 15px 20px;
+}
+.renderMiddleBody-heading {
+  color: #475569;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.renderRightSide-container {
+  background-color: #e2e8f0;
+  width: 30%;
+  height: 100%;
+  padding: 20px 18px 40px;
+  margin-left: 5px;
+}
+
+.renderRightSide-heading {
+  color: #475569;
+  font-weight: 700;
+  font-size: 15px;
+}
+.right-ad-box {
+  height: 100px;
+  width: 125px;
+  margin: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #475569;
+}
+.left-side-list-container {
+  list-style-type: none;
+}

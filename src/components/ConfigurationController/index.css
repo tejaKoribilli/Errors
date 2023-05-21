@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.checkbox-container {
+  display: flex;
+  margin-top: 5px;
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+.ConfigurationController-container {
+  background-color: #475569;
+  color: white;
+  padding: 10px 50px 40px;
+}
+.label {
+  padding-left: 4px;
+  margin-top: 2px;
+}
