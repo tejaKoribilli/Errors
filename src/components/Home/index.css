@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 80vw;
+}
+.home-icon-img {
+  height: 200px;
+}
+.dark-theme {
+  background-color: black;
+  color: white;
+}

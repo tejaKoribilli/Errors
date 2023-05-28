@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.home-about-container {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-weight: 600;
+  list-style-type: none;
+  padding: 0px;
+}
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80vw;
+  height: 90px;
+  padding: 5px 50px 5px;
+}
+.website-logo {
+  height: 60px;
+}
+.theme-img {
+  height: 50px;
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: black;
+  padding-left: 37px;
+}
+.dark-theme {
+  color: white;
+}
+.theme-btn {
+  background-color: transparent;
+  border: none;
+}
