@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.planet-img {
+  height: 300px;
+  width: 350px;
+}
+.PlanetItem-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.planets-heading {
+  color: #05acff;
+}
+.planet-name {
+  color: #f8fafc;
+}
+.planet-desc {
+  color: #f1f5f9;
+  width: 500px;
+}
